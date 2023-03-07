@@ -1,6 +1,4 @@
-// Zikos Spyridon 1084581
-// Kyriakoulopoulos Kallinikos 1084583
-// Makris Orestis-Antonis 1084516
+
 
 #include <unistd.h>
 #include <stdlib.h>
